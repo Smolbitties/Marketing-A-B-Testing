@@ -36,3 +36,6 @@ print(f"Z-statistic: {z_stat}, P-value: {p_value}")
 Interpretation
 Based on the p-value, we determine if there is a significant difference in conversion rates.
 The z-statistic and p-value calculated from the A/B test will help to decide whether to reject the null hypothesis. If the p-value is less than 0.05, there is a statistically significant difference between the ad and psa groups, otherwise, there is no significant difference.
+
+Findings
+Reject the null hypothesis: Significant difference between ad and psa groups.
